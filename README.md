@@ -21,7 +21,7 @@ https://production-blossom-app.onrender.com/
 
 ---
 
-### This video is in collaboration with UI/UX Designer . Check out their channel here: https://www.youtube.com/@gabrielaarcia
+### This video is in collaboration with UI/UX Designer Gabriela Arcia. Check out their channel here: https://www.youtube.com/@gabrielaarcia
 
 
 
