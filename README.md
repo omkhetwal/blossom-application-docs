@@ -10,6 +10,11 @@ https://production-blossom-app.onrender.com/
 
 <br>
 
+## Back-end
+
+(Back-end)[https://github.com/omkhetwal/blossom-app-back-end.git]
+
+(Front-end)[https://github.com/omkhetwal/blossom-application-front-end]
 
 # Figma file
 <br>
