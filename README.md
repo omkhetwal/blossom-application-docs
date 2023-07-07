@@ -30,8 +30,3 @@ https://production-blossom-app.onrender.com/
 
 
 
-Thank you so much for your help! Let's work together to help my friend find their dream job.
-
-Many Thanks and Best Regards,
-
-
